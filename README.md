@@ -1,9 +1,5 @@
 # Detecting Phishing in E-Banking Websites
 
-**Project Phase 1 – Introductory Seminar**  
-**Sai Vidya Institute of Technology (SVIT), Department of Information Science and Engineering**  
-Rajanukunte, Bengaluru, Karnataka, India
-
 ## Overview
 
 Phishing websites imitate legitimate banking or financial websites to trick people into sharing sensitive information such as usernames, passwords, card details, or bank account information. This project explores a phishing-detection approach for e-banking websites using **associative classification and data-mining techniques**.
@@ -104,26 +100,13 @@ The presentation proposes testing cases including:
 - Shortened URLs.
 - URLs that place a bank name before an unrelated real domain.
 
-**Important:** These are illustrative test scenarios from the presentation. Do not use the expected labels as a substitute for checking a URL safely.
+
 
 ## Future Enhancements
 
 The presentation suggests exploring stronger authentication, user-awareness efforts, multilingual support, secure email practices (DMARC, SPF, and DKIM), and other identity-verification approaches.
 
-## Project Team
 
-- Vaishnavi Srinivasa Murthy — `1VA22IS115`
-- Kathyaini E — `1VA22IS042`
-- Vasanth Kumar B — `1VA22IS117`
-- Harshini S — `1VA22IS032`
-
-**Guide:** Prof. Shivaram A M, Associate Professor, Department of Information Science and Engineering, SVIT.
-
-## References
-
-1. S. Kavya and D. Sumathi, “Staying Ahead of Phishers: A Review of Recent Advances and Emerging Methodologies in Phishing Detection,” *Artificial Intelligence Review*, 2025.
-2. A. Basit, M. Zafar, X. Liu et al., “A Comprehensive Survey of AI-Enabled Phishing Attacks Detection Techniques,” *Telecommunication Systems*, 2021.
-3. K. Thakur, M. L. Ali, M. A. Obaidat, and A. Kamruzzaman, “A Systematic Review on Deep-Learning-Based Phishing Email Detection,” *Electronics*, 2023.
 4. A. Arshad, A. Ur Rehman, S. Javaid, and T. M. Al, “A Systematic Literature Review on Phishing and Anti-Phishing Techniques,” 2021.
 
 ---
